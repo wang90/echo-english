@@ -4,6 +4,20 @@
 在线体验：[https://wang90.github.io/echo-english/](https://wang90.github.io/echo-english/)
 目标很明确：在没有语言环境的情况下，用“阅读输入 + 口语输出 + 生词复习”三件事，持续提升英语能力。
 
+## 界面预览
+
+### 今日练习
+
+<img src="screenshots/home.jpg" alt="Echo English 今日练习页面" width="100%">
+
+### 英文阅读
+
+<img src="screenshots/reading.jpg" alt="Echo English 英文阅读页面" width="100%">
+
+### 口语对话
+
+<img src="screenshots/speaking.jpg" alt="Echo English 口语对话页面" width="100%">
+
 ## 功能
 
 ### 1. 英文阅读
