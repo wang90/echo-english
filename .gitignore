@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Local editor / IDE
+.vscode/
+.idea/
+
+# Screenshots and local exports
+/assets/_shots/
+/screenshots/*.png
+
+# Logs
+*.log
